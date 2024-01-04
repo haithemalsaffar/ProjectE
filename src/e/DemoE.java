@@ -7,6 +7,7 @@ public class DemoE {
 		System.out.println("printing");
 		System.out.println("%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%");
 		System.out.println("MMMMMMMMMMMMMMMMMMMMMMMM");
+		System.out.println("$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$");
 	}
 
 }
