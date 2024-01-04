@@ -5,6 +5,7 @@ public class DemoE {
 		System.out.println("++++++++++++++++++++++++++++");
 		System.out.println("GitHub is not a joke");
 		System.out.println("printing");
+		System.out.println("%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%");
 	}
 
 }
